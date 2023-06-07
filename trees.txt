@@ -3,3 +3,4 @@ pine
 ananas
 banana
 apple
+palm
